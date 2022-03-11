@@ -1,0 +1,22 @@
+{
+  "name": "a00",
+  "version": "1.0.0",
+  "description": "first assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuyu",
+  "license": "ISC",
+  "dependencies": {
+    "browsersync": "^0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a00-zfbxrk518.git"
+  },
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a00-zfbxrk518/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a00-zfbxrk518#readme"
+}
